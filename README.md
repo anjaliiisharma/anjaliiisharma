@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjaliiisharma
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MongoDb
-- 📫 you reach me on linked in - www.linkedin.com/in/anjali-sharma-767bbb222
+- 📫 you can reach me on linkedin - www.linkedin.com/in/anjali-sharma-767bbb222
 - 😄 Pronouns: she/her
 
 
